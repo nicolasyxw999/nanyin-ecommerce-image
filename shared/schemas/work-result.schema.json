@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "work-result",
+  "type": "object",
+  "required": [
+    "step_id",
+    "status",
+    "artifact_ids",
+    "checks",
+    "issues"
+  ],
+  "properties": {
+    "step_id": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "planned",
+        "completed",
+        "partial",
+        "blocked",
+        "handoff_required"
+      ]
+    },
+    "artifact_ids": {
+      "type": "array"
+    },
+    "checks": {
+      "type": "array"
+    },
+    "issues": {
+      "type": "array"
+    }
+  }
+}

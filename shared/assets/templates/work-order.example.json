@@ -1,0 +1,16 @@
+{
+  "job_id": "example-product-001",
+  "step_id": "photo-001",
+  "asset_id": "hero",
+  "owner_skill": "nanyin-ecommerce-photography",
+  "brief_revision": 1,
+  "reference_ids": [],
+  "intent": "根据真实商品资料制作主图",
+  "output_spec": {
+    "size": [
+      1024,
+      1024
+    ]
+  },
+  "depends_on": []
+}

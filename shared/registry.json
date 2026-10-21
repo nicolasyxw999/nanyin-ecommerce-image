@@ -1,0 +1,22 @@
+{
+  "bundle_version": "1.2.0",
+  "schema_version": 2,
+  "skills": {
+    "image": "../skills/nanyin-ecommerce-image",
+    "photography": "../skills/nanyin-ecommerce-photography",
+    "detail": "../skills/nanyin-ecommerce-detail",
+    "marketing": "../skills/nanyin-ecommerce-marketing",
+    "edit": "../skills/nanyin-ecommerce-edit",
+    "consistency": "../skills/nanyin-ecommerce-consistency"
+  },
+  "display_name": "南殷电商视觉工坊",
+  "engine_display_name": "南殷图片执行引擎",
+  "default_provider": "codex_builtin",
+  "providers": [
+    "codex_builtin",
+    "qwen",
+    "volcengine"
+  ],
+  "maintainer": "南殷居士",
+  "repository": "https://github.com/nicolasyxw999/nanyin-ecommerce-image"
+}

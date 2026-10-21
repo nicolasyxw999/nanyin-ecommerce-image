@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "brief",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "job_id",
+    "revision",
+    "product",
+    "facts",
+    "budget"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "integer"
+    },
+    "job_id": {
+      "type": "string"
+    },
+    "revision": {
+      "type": "integer"
+    },
+    "product": {
+      "type": "object"
+    },
+    "facts": {
+      "type": "array"
+    },
+    "budget": {
+      "type": "object"
+    }
+  }
+}

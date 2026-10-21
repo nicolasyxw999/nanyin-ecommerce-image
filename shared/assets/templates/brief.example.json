@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "job_id": "example-product-001",
+  "revision": 1,
+  "product": {
+    "name": "用户提供商品名",
+    "sku_id": "sku-001"
+  },
+  "facts": [],
+  "budget": {
+    "currency": null,
+    "max_amount": null,
+    "authorization_source": null
+  }
+}

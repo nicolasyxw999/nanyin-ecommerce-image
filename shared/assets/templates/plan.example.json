@@ -1,0 +1,20 @@
+{
+  "schema_version": 2,
+  "job_id": "example-product-001",
+  "coordinator": "nanyin-ecommerce-image",
+  "brief_revision": 1,
+  "assets": [
+    {
+      "asset_id": "hero",
+      "sku_id": "sku-001",
+      "owner_skill": "nanyin-ecommerce-photography",
+      "prompt": "根据已确认商品卡和参考图制作棚拍主图。此示例需替换成具体商品说明。",
+      "params": {},
+      "size": null,
+      "references": [],
+      "depends_on": [],
+      "transparent_background": false
+    }
+  ],
+  "provider": "codex_builtin"
+}

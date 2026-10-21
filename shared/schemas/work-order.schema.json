@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "work-order",
+  "type": "object",
+  "required": [
+    "job_id",
+    "step_id",
+    "asset_id",
+    "owner_skill",
+    "brief_revision",
+    "intent",
+    "output_spec",
+    "depends_on"
+  ],
+  "properties": {
+    "job_id": {
+      "type": "string"
+    },
+    "step_id": {
+      "type": "string"
+    },
+    "asset_id": {
+      "type": "string"
+    },
+    "owner_skill": {
+      "type": "string"
+    },
+    "brief_revision": {
+      "type": "integer"
+    },
+    "intent": {
+      "type": "string"
+    },
+    "output_spec": {
+      "type": "object"
+    },
+    "depends_on": {
+      "type": "array"
+    }
+  }
+}

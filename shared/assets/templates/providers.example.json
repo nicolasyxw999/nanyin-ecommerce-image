@@ -1,0 +1,24 @@
+{
+  "providers": {
+    "qwen": {
+      "endpoint": "https://dashscope.aliyuncs.com/api/v1/services/aigc/multimodal-generation/generation",
+      "model": "<填写当前可用千问图像模型>",
+      "api_key_env": "DASHSCOPE_API_KEY",
+      "max_reference_images": 0,
+      "parameters": {
+        "prompt_extend": false
+      },
+      "timeout_seconds": 300
+    },
+    "volcengine": {
+      "endpoint": "https://ark.cn-beijing.volces.com/api/v3/images/generations",
+      "model": "<填写Seedream模型ID或推理接入点ID>",
+      "api_key_env": "ARK_API_KEY",
+      "max_reference_images": 0,
+      "parameters": {
+        "response_format": "url"
+      },
+      "timeout_seconds": 300
+    }
+  }
+}
