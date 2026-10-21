@@ -4,6 +4,28 @@
 
 由 [南殷居士](AUTHOR.md) 设计、编排和维护。公众号 **南殷用AI** · [官网](https://nanyinai.vip/) · [GitHub](https://github.com/nicolasyxw999) · [MIT License](LICENSE)。
 
+## 成功案例展示
+
+以下为使用本套件实际生成的「南殷AI保温杯」原创概念图，展示商品摄影、系列构图与主题视觉的成图效果。点击图片可查看原图。
+
+### 同一商品，三种构图
+
+保留暖白杯身、深色杯盖、紫色光环与 N 标识，分别用留白、杂志版式和微距传达不同视觉重点。
+
+| 极简留白 · 主视觉 | 杂志编辑 · 办公场景 | 巨物微距 · 细节表现 |
+|:---:|:---:|:---:|
+| ![极简留白主视觉](docs/images/showcase/layout-minimal.png) | ![杂志编辑办公场景](docs/images/showcase/layout-editorial.png) | ![杯盖与光环微距](docs/images/showcase/layout-macro.png) |
+
+### 同一商品，三种主题风格
+
+保持商品的基本外观与品牌标识，分别探索清透科技、自然居家与深色科技方向。
+
+| 雾蓝科技 | 鼠尾草绿 | 石墨紫光 |
+|:---:|:---:|:---:|
+| ![雾蓝科技主题](docs/images/showcase/style-mist-blue.png) | ![鼠尾草绿自然主题](docs/images/showcase/style-sage-green.png) | ![石墨紫光科技主题](docs/images/showcase/style-graphite-purple.png) |
+
+这些图片为 AI 生成的概念视觉，图中文字及功能表达不代表在售产品承诺；跨图细节不等于工业精密一致。已查看主要标题、杯型、标识与构图，未验证真实硬件、App 功能或平台审核。[案例来源与检查说明](docs/showcase.md)。
+
 ## 能做什么
 
 | 技能 | 用途 |
