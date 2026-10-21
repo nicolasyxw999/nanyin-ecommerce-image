@@ -2,7 +2,7 @@
 
 把商品资料与参考图转为电商主图、详情套图、广告海报、商品精修与模特展示图。一套安装包包含 **1 个总控＋5 个专业技能＋共享执行器**。
 
-由 [南殷居士](AUTHOR.md) 设计、编排和维护。公众号 **南殷用AI** · [官网](https://nanyinai.vip/) · [GitHub](https://github.com/nicolasyxw999) · [MIT License](LICENSE)。
+由 [南殷居士](AUTHOR.md) 设计、编排和维护。公众号 **南殷用AI** · [个人站：南殷用AI](https://nanyinai.vip/) · [GitHub](https://github.com/nicolasyxw999) · [MIT License](LICENSE)。
 
 ## 成功案例展示
 
@@ -25,6 +25,11 @@
 | ![雾蓝科技主题](docs/images/showcase/style-mist-blue.png) | ![鼠尾草绿自然主题](docs/images/showcase/style-sage-green.png) | ![石墨紫光科技主题](docs/images/showcase/style-graphite-purple.png) |
 
 这些图片为 AI 生成的概念视觉，图中文字及功能表达不代表在售产品承诺；跨图细节不等于工业精密一致。已查看主要标题、杯型、标识与构图，未验证真实硬件、App 功能或平台审核。[案例来源与检查说明](docs/showcase.md)。
+
+## 教程与案例
+
+- [AI 视觉系统实战手册（初阶版）](https://nanyinai.vip/articles/ai-visual-system-practical-manual-beginner.html)：从商品资料、提示词和单张任务开始。
+- [AI 视觉系统实战手册（进阶版）](https://nanyinai.vip/guides/ai-visual-system-advanced.html)：查看安装、系列构图、配色、多 SKU 与交付流程。
 
 ## 能做什么
 
